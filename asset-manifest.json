@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-workings/static/css/main.c3b3c9ba.css",
+    "main.js": "/react-workings/static/js/main.9f9379cf.js",
+    "index.html": "/react-workings/index.html",
+    "main.c3b3c9ba.css.map": "/react-workings/static/css/main.c3b3c9ba.css.map",
+    "main.9f9379cf.js.map": "/react-workings/static/js/main.9f9379cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3b3c9ba.css",
+    "static/js/main.9f9379cf.js"
+  ]
+}
